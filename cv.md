@@ -3,10 +3,10 @@
 
 ### Contacts 
 
-Belarus, Gomel
-Email: apankov4696@gmail.com
-Discord: Artyom Pankov (@avpankov)
-Telegram: @apankov1516
+- Belarus, Gomel
+- Email: apankov4696@gmail.com
+- Discord: Artyom Pankov (@avpankov)
+- Telegram: @apankov1516
 
 
 ### Profile
