@@ -69,10 +69,10 @@
             <pre>
                 <code>function rgb(r, g, b){
                         let hex = [...arguments];
-                        hex = hex.map(el => el &lt; 0 ? el = 0 : el);
-                        hex = hex.map(el => el > 255 ? el = 255 : el);
-                        hex = hex.map(el => el.toString(16));
-                        hex = hex.map(el => el.length === 1 ? '0' + el : el);
+                        hex = hex.map(el =&gt; el &lt; 0 ? el = 0 : el);
+                        hex = hex.map(el =&gt; el &gt; 255 ? el = 255 : el);
+                        hex = hex.map(el =&gt; el.toString(16));
+                        hex = hex.map(el =&gt; el.length === 1 ? '0' + el : el);
                         return hex.join('').toUpperCase();
                     }</code>
             </pre>
